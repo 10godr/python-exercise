@@ -1,0 +1,1 @@
+print ("qloke mio") 
